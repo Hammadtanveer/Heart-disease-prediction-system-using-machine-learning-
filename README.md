@@ -7,7 +7,9 @@ analysis, enabling quick and accurate detection of risk factors.
 This reduces reliance on manpower, minimizes paperwork, and optimizes resource
 utilization. Early detection through such systems lowers long-term treatment costs and
 improves healthcare efficiency.
+
 Software Requirement:
+
 1. Operating System: Windows, macOS, or Linux
 2. Programming Language: Python
 3. IDE: Jupyter Notebook
