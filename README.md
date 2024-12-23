@@ -23,5 +23,6 @@ Hardware Requirement:
 Machine Learning Algorithm:
 1. Logistic regression.
 2. Random forest.
+   
 Dataset:
 Heart Disease Dataset by (David Lapp).
