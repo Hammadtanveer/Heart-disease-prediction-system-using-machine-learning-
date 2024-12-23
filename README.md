@@ -20,6 +20,7 @@ Hardware Requirement:
 2. RAM: 4 GB or higher.
 3. Hard Disk: 200 MB of free disk space.
 4. Monitor: Standard screen resolution (1024x768 or higher).
+   
 Machine Learning Algorithm:
 1. Logistic regression.
 2. Random forest.
